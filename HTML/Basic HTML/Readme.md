@@ -10,3 +10,7 @@ View  <a href="https://sharu411.github.io/Certified-Full-Stack-Developer/HTML/Ba
 In this lab, I review HTML basics by creating a web page of your favorite recipe. I create an HTML boilerplate and work with headings, lists, images, and more.
 
 View  <a href="https://sharu411.github.io/Certified-Full-Stack-Developer/HTML/Basic%20HTML/3_Build%20a%20Recipe%20Page/index.html" target="_blank">Recipe Page</a>
+## 4_Travel Agency Page
+In this lab, I review working with HTML fundamentals by creating a web page for a travel agency. I work with images, the figure element, the figcaption element, the anchor element, and more.
+
+View  <a href="https://sharu411.github.io/Certified-Full-Stack-Developer/HTML/Basic%20HTML/4_Build%20a%20Travel%20Agency%20Page/index.html" target="_blank">Travel Agency Page</a>
